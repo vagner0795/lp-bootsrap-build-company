@@ -52,6 +52,13 @@ z-index: 1;
     font-weight: 500;
 }
 
+.navbar-toggler{
+    border: 0;
+}
+.navbar-toggler .collapsed{
+    border: 0;
+}
+
  .navbar-brand{
     color: #000000;
     font-size: 25px;
